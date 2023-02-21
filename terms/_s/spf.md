@@ -11,3 +11,4 @@ definition:
 - [What is SPF?](https://proprivacy.com/email/guides/what-is-spf), ProPrivacy
 - [What is SPF?](https://dmarcian.com/what-is-spf/), dmarcian
 - [What is SPF?](https://www.proofpoint.com/us/threat-reference/spf), Proofpoint
+- [SPF Explained in Under 5 Minutes](https://postmarkapp.com/glossary/sender-policy-framework), Postmark

@@ -10,3 +10,4 @@ definition:
 
 - [DMARC Documentation](https://dmarc.org), DMARC.org
 - [What is DMARC?](https://mxtoolbox.com/dmarc/details/what-is-dmarc), MXToolBox
+- [DMARC Explained in Under 5 Minutes](https://postmarkapp.com/glossary/dmarc), Postmark

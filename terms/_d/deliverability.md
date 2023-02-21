@@ -12,3 +12,4 @@ definition:
 - [Email Deliverability: What It Is and Why It Matters](https://www.litmus.com/blog/why-email-deliverability-matters/), Litmus
 - [Email Deliverability Best Practices Guide](https://sendgrid.com/resource/email-deliverability/), SendGrid
 - [Email Deliverability Check](https://mxtoolbox.com/deliverability), MXToolBox
+- [Email Deliverability Explained in Under 5 Minutes](https://postmarkapp.com/glossary/email-deliverability), Postmark

@@ -11,4 +11,5 @@ definition:
 - [Solving the Mystery That Is Email Authentication](https://www.campaignmonitor.com/blog/email-marketing/email-authentication-solving-mystery-authentication/), Campaign Monitor
 - [Email Authentication: Don't Let Your Emails End Up In Spam](https://kinsta.com/blog/email-authentication/), Kinsta
 - [How to Set Up Your Email Authentication Properly](https://www.rejoiner.com/resources/email-authentication), Rejoiner
+- [Email Authentication in Under 5 Minutes](https://postmarkapp.com/glossary/email-authentication), Postmark
  
